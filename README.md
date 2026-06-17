@@ -12,7 +12,7 @@ Student interested in Cybersecurity and Software Development.
 ## Projects
 - 🔐 [File CF - Secure File Locker](https://github.com/Kushagra639/FileCF)
 - 🌐 [WebSec - Web Security Analyzer](https://github.com/Kushagra639/WebSec)
-- 🔑 [Passkit - Password Security Toolkit](https://github.com/Kushagra639/Passkit)
+- 🔑 [PassKit - Password Security Toolkit](https://github.com/Kushagra639/Passkit)
 - 🛍️ [Magasin Connect](https://github.com/Kushagra639/Magasin_Connect)
 - ✈️ [Voyage Aid AI](https://github.com/Kushagra639/Voyage_Aid_AI)
 
